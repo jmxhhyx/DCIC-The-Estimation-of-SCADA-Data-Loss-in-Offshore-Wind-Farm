@@ -8,3 +8,4 @@ DCIC:The Estimation of SCADA Data Loss in Offshore Wind Farm
 我们抽取某一海上风电场实际SCADA数据，并人为地去除其中的部分数据，包括但不限于删去某个时间段的全部数据、某台机组在某段时间的数据、某台机组在某段时间的部分字段信息等等，参赛者需要利用剩余数据对删去的数据进行恢复，最终以恢复的准确度为评价基准。
 
 (We extract actual SCADA data of a certain offshore wind farm and artificially remove some of the data, including but not limited to deleting all data of a certain time period, data of a certain turbine at a certain time, some fields of a certain turbine at a certain time, etc. The applicant needs to use the remaining data to recover the deleted data, and the accuracy of the recovery shall be the final evaluation benchmark.)
+
