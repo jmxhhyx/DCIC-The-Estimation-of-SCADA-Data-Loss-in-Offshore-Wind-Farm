@@ -2,6 +2,9 @@
 
 ## Online Score:53793055(A榜),感谢Demon大佬提交的分数
 
+## 感谢yin的修改:https://github.com/jmxhhyx/DCIC-The-Estimation-of-SCADA-Data-Loss-in-Offshore-Wind-Farm/issues/2
+Online Score:0.60604954(A榜)
+
 # 数据背景:
  本赛题使用的数据来源于实际海上风电场运营期间产生的远程监控数据（也称SCADA数据），包含机组运行状态密切相关的传感器数据和报警信息等，每隔一定时间周期（大约为7秒）记录一次。该数据主要用于机组的运行状态监控、故障诊断分析以及机组性能优化等方面。
 
